@@ -1,0 +1,2 @@
+INSERT INTO users(fname, phon )  VALUES(?,?)
+SELECT * FROM users
